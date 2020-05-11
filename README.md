@@ -89,7 +89,6 @@ t.forward(100) #turtle draws line
 ```
 t.speed(1) #moves slower than t.speed(100)
 ```
-  * Lesson learnt: even turtles can be fast :laughing:
 
 ---
 
