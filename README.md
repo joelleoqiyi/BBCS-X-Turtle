@@ -5,7 +5,7 @@ Turtles are slow :turtle:... What if we add a bolt of lightning to it in a lab?
 This Lighting Lab is happening online on Fri 15 May - 1110 to 1120. In this Lightning Lab, you will be learning and experimenting with the [turtle](https://docs.python.org/3/library/turtle.html) python library. This lab would be 10 mins long and is split into 2 sections.
 - For the first section (5mins), you will be **viewing a 5 min workshop video that will go through the basics of turtle.py**
 - For the second section (5mins), you will need to use **turtle.py** to draw a drawing and submit your drawing to [https://tinyurl.com/bbcs20lightningturtle](https://tinyurl.com/bbcs20lightningturtle).
-  * While drawing, you would need to adhere to the central theme of <ENTER THEME HERE>
+  * While drawing, you would need to adhere to the central theme of (ENTER THEME HERE)
   * But what exactly is the picture/diagram that you draw is **entirely up to you**. You can draw pictures as simple as a rectangle or as complex as a map of singapore :laughing:
 
 ## The Theme for this lighting lab is...
@@ -27,7 +27,7 @@ NOTE: For a submission considered as successful, you have to submit BEFORE 1120 
 
 ---
 
-#Queries:
+# Queries:
 For queries, please contact @lightninglabs_turtle in the #workshop-help Discord channel!
 
-BUT before you go ahead and attempt the lab (viewing the video, etc)... you would need to
+Now let's go on ahead and start learning turtle :laughing:
