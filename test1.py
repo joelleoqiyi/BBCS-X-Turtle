@@ -1,8 +1,9 @@
 import turtle
-from turtle import *
 import random 
 
 t = turtle.Turtle()
+t.pensize(5)
+t.speed(0)
 '''
 t.shape("turtle")
 t.color("red")
