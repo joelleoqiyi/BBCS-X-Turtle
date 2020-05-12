@@ -109,7 +109,9 @@ while True: #looping...
       break
 t.end_fill() #"end" the filling process
 ```
-Upon executing the code above, you should see ![](img/section4example2.png)
+Upon executing the code above, you should see
+
+![](img/section4example2.png)
 
 ---
 
