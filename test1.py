@@ -1,9 +1,37 @@
 import turtle
-import random 
-
+import random
+from turtle import *
+t = turtle.Turtle()
+'''
+t = turtle.Turtle()
+t.color('red', 'yellow')
+t.begin_fill()
+while True:
+    t.forward(200)
+    t.left(170)
+    if abs(t.pos()) < 1:
+      break
+t.end_fill()  
+'''
+'''
 t = turtle.Turtle()
 t.pensize(5)
-t.speed(0)
+t.speed(1)
+t.setpos(-200, -200)
+t.setpos(200, 200)
+t.color("red", "blue")
+t.begin_fill()
+x = 200
+y = 200
+t.left(180)
+for i in range(10):
+  x -= 20
+  y -= 20
+  t.setpos(x,y)
+  t.circle(5)
+t.end_fill()
+'''
+
 '''
 t.shape("turtle")
 t.color("red")
@@ -47,8 +75,8 @@ for x in range(5):
   t.begin_fill()
   t.circle(random.randrange(0,80))
   t.end_fill()
-
 '''
+
 colors = ["black", "blue", "yellow"]
 def up():
   t.setheading(90) #90 is north
@@ -69,6 +97,7 @@ def right():
 
 def clickleft(x,y):
   t.color(random.choice(colors))
+  print(x,y)
 
 def clickright(x,y):
   t.stamp() #stamp down like a stamp :) 
@@ -78,10 +107,11 @@ turtle.listen() #listens to input from user , mouse, keyboard
 turtle.onscreenclick(clickleft, 1) #can replace 1 with 2 if wan middle mouse button, if replace with 3, means need click right mouse button
 
 turtle.onclick(clickright, 3) #onclick ==> on turtle, onscreenclick ==> anywhere else 
-turtle.onkey(up, "Up") #listen to the 2nd parameter and do the function in the first 
+turtle.onkey(up, "a") #listen to the 2nd parameter and do the function in the first 
 turtle.onkey(down, "Down")
 turtle.onkey(left, "Left")
 turtle.onkey(right, "Right")
 
 turtle.mainloop() #keep continuing to look for the key presses until we exit the code. if dh, then the second we open the program, the turtle would listen once. and end the program. essentially looping ur code. 
-#mainloop() can be in a function but also in the main code 
+#mainloop() can be in a function but also in the main code
+
