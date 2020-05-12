@@ -25,6 +25,7 @@ This Lighting Lab is happening online on Fri 15 May - 1110 to 1120. In this Ligh
 
 NOTE: For a submission considered as successful, you have to submit BEFORE 1120 and have all 3 submittables.(submissions after stipulated ending time would be judged on a case-by-case basis, for eg: if you have a wifi issue, etc)
 
+## [Click here to learn the basics of turtle!](https://github.com/joelleoqiyi/BBCS-X-Turtle/blob/master/turtle.md)
 
 ---
 
