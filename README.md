@@ -6,11 +6,11 @@ This Lighting Lab is happening online on Fri 14 May - 1330 to 1340. In this Ligh
 - There would be **a 10 min workshop video that will go through the __basics of turtle.py__**
 - After which, you can take the rest of the day to go and experiment with the turtle library :laughing:
 - On Friday 15 May, during opening speech, you will be given a theme. You will need to use **turtle.py** to draw a drawing and submit your drawing to [https://tinyurl.com/bbcs20turtlesubmit](https://tinyurl.com/bbcs20turtlesubmit).
-  * While drawing, you would need to adhere to the central theme of (ENTER THEME HERE)
+  * While drawing, you would need to adhere to the central theme of (THEME WOULD BE ANNOUNCED ON FRIDAY)
   * But what exactly is the picture/diagram that you draw is **entirely up to you**. You can draw pictures as simple as a rectangle or as complex as a world map :laughing:
 
 ## The Theme for this lighting lab is...
-## **(INSERT THEME HERE!)**
+## **(THEME WOULD BE ANNOUNCED ON FRIDAY)**
 
 ## Submittables:  
 1) your drawings (made using turtle.py)
