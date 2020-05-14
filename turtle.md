@@ -175,5 +175,6 @@ turtle.mainloop() #looping the code above such that your code does not exit imme
  
  ## Additional Links...
 
-- [Really Good for Beginners](https://realpython.com/beginners-guide-python-turtle/)
+- [Beginner's Guide to turtle.py](https://realpython.com/beginners-guide-python-turtle/)
 - [Drawing with Mouse in turtle.py](https://www.youtube.com/watch?v=HRKQlEfEMCA)
+- [Event-driven programming with turtle.py](https://artofproblemsolving.com/assets/pythonbook/events.html)
