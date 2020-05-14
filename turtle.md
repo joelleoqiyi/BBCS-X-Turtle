@@ -170,3 +170,10 @@ turtle.mainloop() #looping the code above such that your code does not exit imme
       * etc....
   * The `.listen()` method allows the turtle to listen to the input from the user
   * The `.mainloop()` method loops the codes above it to prevent your code from exiting immediately
+  
+ ---
+ 
+ ## Additional Links...
+
+- [Really Good for Beginners](https://realpython.com/beginners-guide-python-turtle/)
+- [Drawing with Mouse in turtle.py](https://www.youtube.com/watch?v=HRKQlEfEMCA)
